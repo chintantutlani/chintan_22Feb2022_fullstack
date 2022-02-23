@@ -3,6 +3,6 @@ from django.shortcuts import render
 
 # Create your views here.
 
-def createddd(request):
+def (request):
 
     return JsonResponse(data={'msg':'hi'})

@@ -1,0 +1,5 @@
+What’s the use of Middleware in Django
+What is React?
+What are the advantages of using React?
+What are the limitations of React?
+What is React Hooks
